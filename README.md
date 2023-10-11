@@ -2,6 +2,15 @@
 
 This is an image segmentation project for people using UNets. The goal with this project is to create a model that can segment people in an image and use it to automatically remove backgrounds. `project_report.pdf` contains a summary of this project. The UNet architecture used in the project can be found in `utils.py` and the model diagram is shown below. 
 
+## Files
+
+- `project_report.pdf`: summary of the project
+- `utils.py`: UNet architecture using tensorflow
+- `dataset_exploration.ipynb`: Creates masks and reorganizes the downloaded dataset
+- `train.ipynb`: Training notebook for the UNet
+- `main.py`: Applies the trained model to webcam footage
+
+
 ![Model Architecture](https://github.com/Ryusei97/UNet-People-Segmentation/blob/main/plots/model_shape.png)
 
 ## Results
