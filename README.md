@@ -1,6 +1,6 @@
 # UNet-People-Segmentation
 
-This is an image segmentation project for people using UNets. The goal with this project is to create a model that can segment people in an image and use it to automatically remove backgrounds. `project_report.pdf` contains a summary of this project. The UNet architecture used in the project can be found in `utils.py` and the model diagram is shown below. 
+This is an image segmentation project for people using UNets. The goal with this project is to create a model that can segment people in an image and use it to automatically remove backgrounds. 
 
 ## Files
 
